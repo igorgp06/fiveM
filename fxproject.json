@@ -1,0 +1,41 @@
+{
+  "assets": {
+    "ch_spawn": {
+      "enabled": true,
+      "restartOnChange": true
+    },
+    "ch_force": {
+      "enabled": false,
+      "restartOnChange": true
+    },
+    "ch_wapons": {
+      "enabled": true,
+      "restartOnChange": true
+    },
+    "ch_jump": {
+      "enabled": true,
+      "restartOnChange": true
+    },
+    "ch_skin": {
+      "enabled": true,
+      "restartOnChange": true
+    }
+  },
+  "serverUpdateChannel": "recommended",
+  "systemResources": [
+    "basic-gamemode",
+    "map-skater",
+    "chat",
+    "playernames",
+    "mapmanager",
+    "spawnmanager",
+    "sessionmanager",
+    "baseevents",
+    "hardcap",
+    "webpack",
+    "yarn"
+  ],
+  "name": "serverTeste0-01",
+  "createdAt": "2025-06-19T18:52:35.833Z",
+  "variables": {}
+}

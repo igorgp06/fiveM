@@ -1,0 +1,5 @@
+
+setTick(() => {
+    SetSuperJumpThisFrame(PlayerId())
+
+})

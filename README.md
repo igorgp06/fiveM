@@ -1,0 +1,1 @@
+# Repostório para salvar scripts e meus apredizados do FiveM
