@@ -19,6 +19,10 @@
     "ch_skin": {
       "enabled": true,
       "restartOnChange": true
+    },
+    "ch_object": {
+      "enabled": true,
+      "restartOnChange": true
     }
   },
   "serverUpdateChannel": "recommended",
