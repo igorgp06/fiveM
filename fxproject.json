@@ -20,7 +20,23 @@
       "enabled": true,
       "restartOnChange": true
     },
-    "ch_object": {
+    "basic\\ch_object": {
+      "enabled": false,
+      "restartOnChange": false
+    },
+    "ch_car": {
+      "enabled": true,
+      "restartOnChange": true
+    },
+    "basic\\ch_ped": {
+      "enabled": false,
+      "restartOnChange": false
+    },
+    "basic\\ch_rat": {
+      "enabled": false,
+      "restartOnChange": false
+    },
+    "ch_autopilot": {
       "enabled": true,
       "restartOnChange": true
     }
