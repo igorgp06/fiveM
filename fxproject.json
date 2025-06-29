@@ -39,6 +39,21 @@
     "ch_autopilot": {
       "enabled": true,
       "restartOnChange": true
+    },
+    "basic\\ch_style": {
+      "enabled": false,
+      "restartOnChange": true
+    },
+    "basic\\ch_security": {
+      "enabled": false,
+      "restartOnChange": true
+    },
+    "ch_carmod": {
+      "enabled": false,
+      "restartOnChange": true
+    },
+    "carroaprendiz": {
+      "enabled": true
     }
   },
   "serverUpdateChannel": "recommended",

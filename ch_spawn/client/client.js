@@ -8,7 +8,7 @@ on('onClientGameTypeStart', () => {
         }, () => {
             emit('chat:addMessage', {
                 args: [
-                    'Hi, there!'
+                    'Bem vindo!'
                 ]
             })
         });
